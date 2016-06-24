@@ -1,2 +1,0 @@
-# MIKEBOL
-PROYECTO Sena
