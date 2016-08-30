@@ -3,7 +3,9 @@ Aqui desarrollamos la ilustracion del proyecto Mikebol con la bases de datos
 
 como la bases de datos de todos los formularios, el consulta, modificacion, eliminacion.
 tambien se mostrara las pruebas de software como son
-·Pruebas de caja blanca: Sera la que se encargue mediante el diagrama grafo que errores nos puede arrojar en la ejecucion del software
-y con el camino basico que se encargue
-·
+·Pruebas de caja blanca: Sera la que se encargue mediante el diagrama grafo, los  errores que nos puede arrojar en la ejecucion del software
+y con el camino basico que se encargue de darnos una salida satifactoria en la ejecucion.
+
+·Prueba de caja negra: Sera la que se encargue mediante el software........ que ejecute el paso a paso como se este ejecutando el software
+y asi msmo mira que errores tenemos que corregir
 
